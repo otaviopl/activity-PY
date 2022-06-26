@@ -1,0 +1,5 @@
+listafilmes = [
+                            ["123","Lucas e Otávio 1: A aventura começa.","2019","Cris bom",["Lucas","Otávio "]],
+                            ["456","Lucas e Otávio 2: A aventura continua","2022","Cris bom",["Lucas", "Otávio"]],
+                            ["789","The Batman 2","2022","Alan zika",["Nicolas Cage", "WILL SMITH", "SCARLETT JOHANSSON","KEANU REEVES"]],
+                            ["987","The Batman ","2017","Alan zika",["ROBERT PATTINSON",  "ZOË KRAVITZ", "PAUL DANO", "COLIN FARRELL", "ANDY SERKIS", "JEFFREY WRIGHT"]]]  

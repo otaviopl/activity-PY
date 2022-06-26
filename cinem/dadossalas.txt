@@ -1,0 +1,8 @@
+salas1 = [
+            ["1213","Sala azul","305","2D/3D","cadeirantes e obesos"],
+            ["1415","Sala vermelha","300","3D","obesos"],
+            ["1617","Sala amarela","205","2D","cadeirantes e obesos"],
+            ["1819","Sala verde","200","3D","besos"],
+            ["2021","Sala preta","155","2D/3D","cadeirantes"],
+            ["2022","Sala cinza","150","2D","cadeirantes e obesos"]
+          ]
