@@ -1,0 +1,5 @@
+masculino 20 nao fundamental
+feminino 30 sim medio
+masculino 90 sim 3 
+
+feminino 45 nao fundamental 
